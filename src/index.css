@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* @font-face {
+  font-family: "CrimsonPro";
+  src: local("CrimsonPro"),
+    url("./assets/fonts/Crimson_Pro/CrimsonPro-VariableFont_wght.ttf")
+      format("truetype");
+} */
+
+/* @font-face {
+  font-family: "Urbanist";
+  src: local("Urbanist"),
+    url("./assets/fonts/Urbanist/Urbanist-VariableFont_wght.ttf")
+      format("truetype");
+} */
+
+@font-face {
+  font-family: "Poppins";
+  src: local("Poppins"),
+    url("./utils/fonts/Poppins/Poppins-Regular.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter"),
+    url("./utils/fonts/Inter/Inter/static/Inter_18pt-Regular.ttf")
+      format("truetype");
+}
